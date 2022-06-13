@@ -71,7 +71,7 @@ For modeling we tried various classification algorithms like:
 
 ## Conclusion
 
-* We have used Logistic Regression, Decision Trees, Random Forest, XGBoost and SVC for modelling. Based on our observations, the Support vector machine with the radial kernel is the best performing model in terms of accuracy and the F1 score and it's high AUC-score shows that it has a high true positive rate.
+* Based on our observations, the Support vector machine with the radial kernel is the best performing model in terms of accuracy and the F1 score and it's high AUC-score shows that it has a high true positive rate.
 
 * Balancing the dataset by using the SMOTE technique helped in improving the models sensitivity and improving the scores of all the models.
 

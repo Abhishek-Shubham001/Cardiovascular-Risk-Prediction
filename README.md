@@ -54,7 +54,7 @@ fact discrete, yet are considered continuous because of large number of possible
 DV
 
 
-## ML Classification Models:
+## ML Classification Models
 
 For modeling we tried various classification algorithms like:
 
@@ -65,7 +65,7 @@ For modeling we tried various classification algorithms like:
 * **Support Vector Machine**
 
 
-## Results: 
+## Results
 
 <img width="505" alt="Comparision Matrix 2" src="https://user-images.githubusercontent.com/104018984/173360091-c7fadf32-df68-49a9-98ed-a118019c5c26.png">
 
